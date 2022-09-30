@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, gradle, http-client, jackson-databind, junit, kotlin, kotlin-build, ktor, logback, micronaut-build, readme, shade, yaml]
